@@ -33,12 +33,12 @@
       "question": "In constructing a plain scale, where should the zero be placed?",
       "answers": {
         "a": "At the beginning of the scale",
-        "b": "At the end of the second main division",
+        "b": "At the end of the first main division",
         "c": "Between the unit and its sub-divisions",
         "d": "At the midpoint of the scale"
       },
       "explanations": {
-        "c": "Between the unit and its sub-divisions"
+        "b": "At the end of the first main division"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
